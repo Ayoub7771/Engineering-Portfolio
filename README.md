@@ -2,52 +2,28 @@
 
 Computer Engineering student at the University of Massachusetts Dartmouth with hands-on experience in embedded systems, electronics, PCB design, firmware development, testing, and hardware-software integration.
 
-## Featured Project: Automated Poker Chip Dispenser
+## Featured Project
 
-### Project Overview
-Designed and built an automated poker chip dispenser as a team project for ECE 388: Embedded System Design.
+### Automated Poker Chip Dispenser
 
-The system uses an ATmega328P microcontroller and a custom PCB to automatically distribute poker chips based on user input.
+A team-based embedded systems project built around an ATmega328P microcontroller. The system integrates servo motors, a keypad, an LCD, custom electronics, firmware, and a 3D-printed enclosure to automate poker-chip dispensing.
 
-### Hardware
-- ATmega328P microcontroller
-- Custom PCB
-- Servo motors
-- Keypad
-- LCD display
-- Voltage regulation and protection circuitry
+![Automated Poker Chip Dispenser](Automated-Poker-Chip-Dispenser/images/lcd-input.jpg)
 
-### Software
-- C/C++
-- Arduino IDE
-- Embedded control logic
-- Motor and user-input control
+**Technologies:** C/C++, ATmega328P, Arduino IDE, KiCad, SolidWorks, PCB Design, Servo Motors, Embedded Systems
 
-### PCB Design & Integration
-Designed and simulated the circuit using KiCad, then soldered and tested the physical PCB.
+[View Full Project](Automated-Poker-Chip-Dispenser/)
 
-Integrated the microcontroller, servo motors, keypad, and LCD into a complete working system.
+## Technical Skills
 
-### Testing & Debugging
-Tested and debugged motor performance, keypad commands, timing, and hardware-software synchronization.
-
-The project gave me hands-on experience diagnosing problems across electrical, mechanical, and software components and improving overall system reliability.
-
-## Skills Demonstrated
 - Embedded Systems
 - Hardware-Software Integration
-- PCB Design
 - C/C++
+- Python
 - Microcontrollers
+- PCB Design
 - Electronics
 - Testing & Debugging
-- System Integration
 - KiCad
-- Arduino IDE|Z
-- 
-
-
-
-
-  ![Automated Poker Chip Dispenser](Screenshot%202026-09-06%20204113.jpg)
-
+- Arduino IDE
+- Git/GitHub
