@@ -43,4 +43,8 @@ The project gave me hands-on experience diagnosing problems across electrical, m
 - Testing & Debugging
 - System Integration
 - KiCad
-- Arduino IDE
+- Arduino IDE|
+
+
+
+![Automated Poker Chip Dispenser](Automated-Poker-Chip-Dispenser/docs/images/poker-chip-dispenser.jpg)
