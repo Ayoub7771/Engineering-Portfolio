@@ -47,5 +47,7 @@ The project gave me hands-on experience diagnosing problems across electrical, m
 - 
 
 
-  
-![Automated Poker Chip Dispenser](Automated-Poker-Chip-Dispenser/docs/images/poker-chip-dispenser.jpg)
+
+
+  ![Automated Poker Chip Dispenser](Screenshot%202026-09-06%20204113.jpg)
+
